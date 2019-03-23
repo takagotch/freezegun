@@ -129,5 +129,3 @@ sudo apt-get install python-freezegun
 
 ```
 ```
-
-
